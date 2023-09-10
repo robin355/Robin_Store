@@ -1,10 +1,12 @@
 import Banner from "./Banner/Banner";
+import Cetagori from "./Cetagori/Cetagori";
 
 const Home = () => {
     return (
         <div>
             <Banner></Banner>
-            <h1>Hello</h1>
+            <Cetagori></Cetagori>
+            
         </div>
     );
 };
